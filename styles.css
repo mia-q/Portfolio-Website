@@ -1,0 +1,132 @@
+#selfie {
+    border-radius: 50%;
+    height: 250px;
+}
+
+#intro-pic {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 150px;
+}
+
+#title {
+    font-size:60px
+}
+
+body {
+    font-family: 'Jost', sans-serif;
+    background-color: #781C68;
+}
+
+#about{
+    text-align: center;
+}
+
+.col-lg-4 {
+    padding-left: 100px;
+    margin-bottom: 100px;
+}
+
+.container-mine {
+    padding: 60px 90px 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color:#FFF5E1;
+    font-size: 40px;
+}
+
+h2 {
+    color:#FFF5E1;
+    margin-top: 10px;
+}
+
+#projects {
+    background-color: #319DA0;
+}
+
+p {
+    color:#FFF5E1;
+    font-size: large;
+}
+
+li {
+    color: #FFD39A;
+}
+
+.container-bio {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+#section-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    width: 50%;
+    flex-grow: 2;
+    flex-shrink: 1;
+    padding: 50px;
+}
+
+#item-c {
+    padding: 30px;
+}
+
+#noodleheader {
+    margin-top: 150px;
+}
+
+.resume {
+    background-color: #319DA0;
+}
+
+.pic-about1 {
+    height: 250px;
+}
+
+.resume-header {
+    margin-top: 5px;
+    color: #FFF5E1;
+}
+
+.res-description {
+    padding-top: 0px;
+    color: rgb(51, 5, 44);
+    margin-left: 20px;
+}
+
+.res-title {
+    margin-top: 100px;
+    color: #FFF5E1;
+}
+
+#cat-container {
+    display: grid;
+    gr
+}
+
+
+.teal {
+   color: #319DA0;
+}
+
+.beige {
+    color: #FFD39A;
+}
+
+.wedding {
+    color: #FFF5E1;
+}
+
+.purple {
+    color:#781C68;
+    font-weight:bold;
+}
