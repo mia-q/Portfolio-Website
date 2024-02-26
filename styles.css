@@ -62,6 +62,10 @@ li {
     margin-top: 50px;
 }
 
+a {
+    text-decoration: none;
+}
+
 a:active {
     color: #FFD39A;
 }
@@ -116,9 +120,17 @@ a:hover {
     color: #FFF5E1;
 }
 
-#cat-container {
-    display: grid;
-    gr
+.cat-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.cat-pic {
+    height: 250px;
+    width: 250px;
+    padding: 10px;
 }
 
 
